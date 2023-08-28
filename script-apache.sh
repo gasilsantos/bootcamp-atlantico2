@@ -9,6 +9,8 @@ echo "instalando o apache..."
 
 sudo apt-get install apache2 -y 
 
+sudo apt-get install unzip -y
+
 echo "instalando a aplicação..."
 
 cd /tmp
